@@ -27,7 +27,7 @@ source envs/bin/activate
 
 #### 4. Clone git repository
 ```bash
-git clone "https://github.com/Manisha-Bayya/simple-django-project.git"
+git clone "https://github.com/madhujha9771/Xenonstackwebsite"
 ```
 
 #### 5. Install requirements
@@ -84,21 +84,36 @@ python manage.py migrate
 python manage.py rebuild_index
 
 # Run the server
-python manage.py runserver 0:8001
+python manage.py runserver 
 
-# your server is up on port 8001
+# your server is up on port 8000
 ```
-Try opening [http://localhost:8001](http://localhost:8001) in the browser.
+Try opening [http://127.0.0.1:8000/] in the browser.
 Now you are good to go.
 
 ### 9. URLs
-#### Signup: [http://localhost:8001/signup](http://localhost:8001/signup)
-![](https://i.imgur.com/T1KkfXi.png)
-#### Login: [http://localhost:8001/login](http://localhost:8001/login)
-![](https://i.imgur.com/KvyiuU6.png)
-#### home for search: [http://localhost:8001/](http://localhost:8001/)
-![](https://i.imgur.com/234qAiS.png)
-#### country page: [http://localhost:8001/country/kenya](http://localhost:8001/country/kenya)
-![](https://i.imgur.com/3zh3YKd.png)
-#### Logout: [http://localhost:8001/logout](http://localhost:8001/logout)
+#### Login: 
+![image](https://github.com/madhujha9771/Xenonstackwebsite/assets/86901904/f510c987-1d93-48d2-b047-d4d0d714bdcc)
+#### Logout
+![image](https://github.com/madhujha9771/Xenonstackwebsite/assets/86901904/a8397e9e-eee0-4a85-a0b7-176ea866b750)
+#### Contact us page:
+![image](https://github.com/madhujha9771/Xenonstackwebsite/assets/86901904/7b84325d-1d2e-4192-a3ae-3beafc2481bf)
+### Pawword wrong:
+![image](https://github.com/madhujha9771/Xenonstackwebsite/assets/86901904/28cf6bb9-f57b-4059-a3af-af5c8d22201f)
+
+### Django database  users data 
+![image](https://github.com/madhujha9771/Xenonstackwebsite/assets/86901904/095de9c1-8175-4110-8fea-b1153202765a)
+
+
+
+### Link for project
+
+https://freshers-guide.netlify.app/
+
+
+
+
+
+
+
 
